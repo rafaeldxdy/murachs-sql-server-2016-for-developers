@@ -48,4 +48,4 @@ O objetivo é consolidar conhecimentos em SQL Server, praticar versionamento de 
 ## 📌 Como usar este repositório
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/murach-sql-server.git
+   git clone https://github.com/rafaeldxdy/murach-sql-server.git
