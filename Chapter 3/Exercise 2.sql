@@ -1,5 +1,5 @@
 /* Murach's SQL Server 2016 for Developers
-   Exercise 2 from Chapter 2
+   Exercise 2 from Chapter 3
 */
 
 USE AP;
